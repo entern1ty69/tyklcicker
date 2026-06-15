@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+
+settings.json
+sounds/click.mp3
+
+venv/
+.env
+.venv/
+
+dist/
+build/
+*.egg-info/
+
+.vscode/
+.idea/
